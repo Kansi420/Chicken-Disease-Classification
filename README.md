@@ -1,6 +1,7 @@
 # Chicken-Disease-Classification
 
 # Chicken-Disease-Classification--Project
+This is an end to end project for chicken disease classification. the application takes as input, an image of chicken feces and classifies weather the chicen has some infected or not. This is done using the image classification  model  VGG16 as a base model. The base model is finetuned on the chicken fecal dataset.
 
 
 ## Workflows
